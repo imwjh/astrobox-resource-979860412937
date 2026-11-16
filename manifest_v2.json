@@ -1,0 +1,40 @@
+{
+  "item": {
+    "id": "979860412937",
+    "restype": "watchface",
+    "name": "FAP",
+    "description": "表盘设计源于🍎\n一共两个样式可选择。\n当前仅适用于红米手表 6\nseegood.top",
+    "preview": [
+      "media/02_cover_2x3.jpg",
+      "media/03_aod_2x3.jpg",
+      "media/04_concept_2x3.jpg",
+      "media/05_showcase_2x3.jpg",
+      "media/06.jpg"
+    ],
+    "icon": "media/FAP-DEMO-center-1009-256.png",
+    "cover": "media/01_cover_3x2.jpg",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "联系我",
+      "url": "https://imwjh.com/contact",
+      "icon": "envelope"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/34-FAP-RW6-1116-1908.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
